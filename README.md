@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Ylesia Wu
-xw001@ucsd.edu
+Ylesia Wu and Jiarui Zha
